@@ -1,0 +1,25 @@
+.jumbotron {
+  color: black;
+  border: 3px silver;
+}
+#gameDisplayPlayer1 {
+  background-color: ivory;
+  border: 2px solid green;
+}
+
+#gameDisplayPlayer2 {
+  background-color: ivory;
+  border: 2px solid green;
+}
+h1 {
+  color: green;
+font-style: oblique;
+}
+.container {
+  text-decoration-color: white;
+  background-image: url(../images/dicie.jpg);
+   background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-image width: 100%
+}
